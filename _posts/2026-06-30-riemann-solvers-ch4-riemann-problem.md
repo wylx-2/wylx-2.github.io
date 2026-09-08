@@ -10,7 +10,7 @@ media_subpath: /assets/img/riemann-solvers/
 ---
 
 > 本文是 E.F. Toro 所著 *Riemann Solvers and Numerical Methods for Fluid Dynamics* 读书笔记系列的一篇，对应原书第 4 章。
-> 系列笔记：[第 2 章 · 双曲型偏微分方程基本概念](/posts/riemann-solvers-ch2-hyperbolic-pdes/) · [第 3 章 · Euler 方程的性质](/posts/riemann-solvers-ch3-euler-equations/) · [第 4 章 · Euler 方程的 Riemann 问题精确解](/posts/riemann-solvers-ch4-riemann-problem/)。原书第 1 章为引言，第 5 章起的 Riemann 求解器与高阶格式内容待后续补充。
+> 系列笔记：[第 2 章 · 双曲型偏微分方程基本概念](/posts/riemann-solvers-ch2-hyperbolic-pdes/) · [第 3 章 · Euler 方程的性质](/posts/riemann-solvers-ch3-euler-equations/) · [第 4 章 · Euler 方程的 Riemann 问题精确解](/posts/riemann-solvers-ch4-riemann-problem/) · [第 10 章 · HLL 与 HLLC 黎曼求解器](/posts/riemann-solvers-ch10-hll-hllc-solvers/)。原书第 1 章为引言，其余章节待后续补充。
 {: .prompt-info }
 
 本章介绍理想气体 Euler 方程的 Riemann 问题精确求解过程。
